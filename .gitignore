@@ -1,0 +1,12 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+.vscode/
+.pytest_cache/
+node_modules/
+yarn.lock
+package-lock.json
+package.json
